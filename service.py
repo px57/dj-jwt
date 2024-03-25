@@ -1,7 +1,7 @@
 
 import mailchimp_transactional as MailchimpTransactional
 
-from kernel.interfaces.service import ServiceManager
+from gpm.interfaces.service import ServiceManager
 
 from datetime import datetime, timedelta
 
